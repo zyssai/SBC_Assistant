@@ -1,5 +1,5 @@
-# N2_Assistant
-N2 Power management by Google Home/Alexa Assistants.
+# SBC_Assistant
+SBC Power management by Google Home/Alexa Assistants.
 
 More information here:
 
