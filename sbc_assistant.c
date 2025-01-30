@@ -12,7 +12,7 @@
 
 // MAILTO=""
 // * * * * * /home/odroid/sbc_assistant >> /home/odroid/sbc_assistant.log
-// 0 22 * * * mv /home/zyssai/sbc_assistant/sbc_assistant.log /home/zyssai/sbc_assistant/sbc_assistant.log.old
+// 0 22 * * * mv /home/odroid/sbc_assistant/sbc_assistant.log /home/odroid/sbc_assistant/sbc_assistant.log.old
 
 
 // This script uses pin 12 (wiringPi 1)
